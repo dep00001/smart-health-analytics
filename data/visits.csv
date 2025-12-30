@@ -1,0 +1,801 @@
+patient_id,visit_date,disease,hospital,admission,doctor_name
+442,2025-05-31,Heart Disease,AIIMS,Yes,Dr. Sharma
+13,2025-05-20,Heart Disease,Max,Yes,Dr. Sharma
+304,2025-10-17,Diabetes,Max,No,Dr. Sharma
+213,2025-01-08,Heart Disease,Max,Yes,Dr. Sharma
+108,2025-09-27,Hypertension,Apollo,No,Dr. Sharma
+85,2025-10-20,Heart Disease,AIIMS,No,Dr. Sharma
+304,2025-11-02,Diabetes,Apollo,No,Dr. Sharma
+297,2025-06-03,Diabetes,Max,Yes,Dr. Sharma
+401,2025-05-26,Normal,Max,Yes,Dr. Sharma
+26,2025-01-31,Diabetes,Max,No,Dr. Sharma
+220,2025-03-26,Heart Disease,Apollo,Yes,Dr. Sharma
+230,2025-12-04,Hypertension,AIIMS,Yes,Dr. Sharma
+20,2025-06-29,Heart Disease,AIIMS,Yes,Dr. Sharma
+378,2025-12-24,Normal,Apollo,Yes,Dr. Sharma
+157,2025-09-15,Normal,Fortis,Yes,Dr. Sharma
+369,2025-04-11,Normal,Apollo,No,Dr. Sharma
+420,2025-01-10,Hypertension,Fortis,No,Dr. Sharma
+314,2025-02-22,Hypertension,Max,Yes,Dr. Sharma
+293,2025-12-29,Normal,Apollo,No,Dr. Sharma
+393,2025-03-08,Heart Disease,AIIMS,Yes,Dr. Sharma
+297,2025-04-29,Heart Disease,Apollo,No,Dr. Sharma
+459,2025-12-02,Hypertension,Max,Yes,Dr. Sharma
+256,2025-01-10,Hypertension,Max,Yes,Dr. Sharma
+50,2025-03-17,Heart Disease,Fortis,No,Dr. Sharma
+124,2025-06-06,Heart Disease,Apollo,No,Dr. Sharma
+459,2025-07-31,Diabetes,Fortis,No,Dr. Sharma
+66,2025-08-07,Hypertension,AIIMS,No,Dr. Sharma
+436,2025-12-13,Heart Disease,AIIMS,Yes,Dr. Sharma
+492,2025-09-21,Diabetes,AIIMS,Yes,Dr. Sharma
+454,2025-07-08,Diabetes,AIIMS,No,Dr. Sharma
+394,2025-09-25,Heart Disease,Apollo,No,Dr. Sharma
+410,2025-01-26,Diabetes,AIIMS,No,Dr. Sharma
+311,2025-04-19,Heart Disease,Max,No,Dr. Sharma
+119,2025-02-16,Diabetes,AIIMS,No,Dr. Sharma
+25,2025-01-14,Diabetes,AIIMS,Yes,Dr. Sharma
+176,2025-08-01,Hypertension,Fortis,No,Dr. Sharma
+163,2025-03-01,Normal,Fortis,Yes,Dr. Sharma
+167,2025-04-25,Diabetes,Max,Yes,Dr. Sharma
+376,2025-06-24,Diabetes,Apollo,Yes,Dr. Sharma
+453,2025-06-30,Diabetes,Max,Yes,Dr. Sharma
+261,2025-03-07,Hypertension,Apollo,No,Dr. Sharma
+211,2025-03-07,Diabetes,AIIMS,No,Dr. Sharma
+415,2025-01-23,Normal,Max,No,Dr. Sharma
+26,2025-04-23,Normal,Fortis,No,Dr. Sharma
+424,2025-06-14,Diabetes,Max,Yes,Dr. Sharma
+271,2025-04-15,Diabetes,Max,Yes,Dr. Sharma
+453,2025-10-16,Hypertension,Fortis,Yes,Dr. Sharma
+259,2025-06-06,Hypertension,Apollo,Yes,Dr. Sharma
+215,2025-09-06,Diabetes,AIIMS,Yes,Dr. Sharma
+491,2025-06-21,Hypertension,Apollo,Yes,Dr. Sharma
+123,2025-05-25,Diabetes,Max,Yes,Dr. Sharma
+54,2025-09-11,Diabetes,Max,No,Dr. Sharma
+161,2025-10-29,Normal,Fortis,No,Dr. Sharma
+290,2025-04-25,Normal,Fortis,No,Dr. Sharma
+257,2025-01-23,Diabetes,Apollo,Yes,Dr. Sharma
+288,2025-10-05,Hypertension,AIIMS,Yes,Dr. Sharma
+377,2025-01-25,Hypertension,Fortis,Yes,Dr. Sharma
+290,2025-09-01,Normal,Apollo,Yes,Dr. Sharma
+240,2025-10-31,Diabetes,AIIMS,No,Dr. Sharma
+426,2025-11-06,Diabetes,Apollo,Yes,Dr. Sharma
+132,2025-04-20,Hypertension,Fortis,Yes,Dr. Sharma
+484,2025-02-02,Hypertension,Max,No,Dr. Sharma
+181,2025-04-18,Heart Disease,Fortis,No,Dr. Sharma
+177,2025-10-24,Hypertension,AIIMS,Yes,Dr. Sharma
+447,2025-05-23,Hypertension,Apollo,Yes,Dr. Sharma
+470,2025-04-02,Hypertension,Fortis,No,Dr. Sharma
+211,2025-12-08,Hypertension,Apollo,No,Dr. Sharma
+243,2025-06-17,Hypertension,Max,Yes,Dr. Sharma
+42,2025-06-24,Hypertension,Fortis,Yes,Dr. Sharma
+161,2025-01-25,Diabetes,AIIMS,No,Dr. Sharma
+69,2025-12-07,Heart Disease,AIIMS,No,Dr. Sharma
+71,2025-01-30,Diabetes,Fortis,No,Dr. Sharma
+56,2025-09-26,Normal,Max,No,Dr. Sharma
+359,2025-10-31,Diabetes,AIIMS,No,Dr. Sharma
+157,2025-01-07,Hypertension,Max,Yes,Dr. Sharma
+446,2025-08-05,Hypertension,AIIMS,No,Dr. Sharma
+387,2025-03-11,Hypertension,Max,No,Dr. Sharma
+368,2025-02-18,Normal,AIIMS,No,Dr. Sharma
+217,2025-12-04,Hypertension,AIIMS,No,Dr. Sharma
+380,2025-10-25,Hypertension,Fortis,No,Dr. Sharma
+381,2025-09-21,Hypertension,Fortis,No,Dr. Sharma
+67,2025-12-24,Heart Disease,Apollo,Yes,Dr. Sharma
+340,2025-05-01,Diabetes,Fortis,No,Dr. Sharma
+384,2025-03-03,Normal,AIIMS,Yes,Dr. Sharma
+455,2025-12-24,Heart Disease,Max,Yes,Dr. Sharma
+126,2025-04-07,Diabetes,Max,Yes,Dr. Sharma
+325,2025-02-23,Hypertension,Fortis,No,Dr. Sharma
+127,2025-12-19,Heart Disease,Fortis,No,Dr. Sharma
+124,2025-11-07,Hypertension,Apollo,Yes,Dr. Sharma
+25,2025-12-12,Hypertension,Apollo,Yes,Dr. Sharma
+353,2025-11-23,Diabetes,Fortis,Yes,Dr. Sharma
+162,2025-06-20,Normal,Fortis,Yes,Dr. Sharma
+98,2025-07-19,Normal,Max,Yes,Dr. Sharma
+171,2025-01-28,Hypertension,Fortis,Yes,Dr. Sharma
+442,2025-01-27,Normal,Fortis,No,Dr. Sharma
+38,2025-03-27,Normal,Max,Yes,Dr. Sharma
+57,2025-03-03,Normal,Fortis,Yes,Dr. Sharma
+320,2025-05-13,Diabetes,Apollo,No,Dr. Sharma
+177,2025-05-12,Normal,Fortis,No,Dr. Sharma
+429,2025-12-09,Diabetes,Fortis,No,Dr. Sharma
+46,2025-08-08,Normal,Max,Yes,Dr. Sharma
+496,2025-08-17,Normal,Max,No,Dr. Sharma
+141,2025-07-24,Heart Disease,Max,No,Dr. Sharma
+246,2025-05-19,Heart Disease,Max,Yes,Dr. Sharma
+391,2025-07-29,Diabetes,AIIMS,Yes,Dr. Sharma
+21,2025-02-05,Diabetes,Apollo,No,Dr. Sharma
+451,2025-06-14,Hypertension,Max,Yes,Dr. Sharma
+14,2025-12-23,Normal,AIIMS,No,Dr. Sharma
+313,2025-02-07,Normal,Apollo,No,Dr. Sharma
+321,2025-03-17,Heart Disease,AIIMS,No,Dr. Sharma
+425,2025-07-14,Hypertension,AIIMS,No,Dr. Sharma
+149,2025-03-15,Diabetes,Apollo,No,Dr. Sharma
+116,2025-05-30,Diabetes,AIIMS,No,Dr. Sharma
+130,2025-09-07,Normal,Max,No,Dr. Sharma
+499,2025-10-27,Hypertension,Apollo,Yes,Dr. Sharma
+387,2025-07-23,Diabetes,Fortis,Yes,Dr. Sharma
+318,2025-10-26,Diabetes,Max,Yes,Dr. Sharma
+413,2025-01-18,Heart Disease,Max,Yes,Dr. Sharma
+430,2025-03-21,Normal,AIIMS,No,Dr. Sharma
+21,2025-05-25,Hypertension,Max,Yes,Dr. Sharma
+438,2025-05-10,Diabetes,Apollo,Yes,Dr. Sharma
+341,2025-05-13,Normal,Apollo,No,Dr. Sharma
+337,2025-12-07,Hypertension,Apollo,Yes,Dr. Sharma
+182,2025-05-22,Normal,Apollo,Yes,Dr. Sharma
+299,2025-04-17,Heart Disease,Apollo,Yes,Dr. Sharma
+174,2025-06-03,Normal,Fortis,No,Dr. Sharma
+409,2025-05-21,Heart Disease,AIIMS,No,Dr. Sharma
+123,2025-02-14,Diabetes,Max,Yes,Dr. Sharma
+292,2025-05-11,Normal,Apollo,No,Dr. Sharma
+181,2025-08-10,Heart Disease,AIIMS,No,Dr. Sharma
+352,2025-08-15,Diabetes,Apollo,Yes,Dr. Sharma
+45,2025-05-03,Normal,Fortis,Yes,Dr. Sharma
+446,2025-03-28,Heart Disease,Apollo,Yes,Dr. Sharma
+101,2025-10-07,Normal,AIIMS,Yes,Dr. Sharma
+13,2025-11-08,Hypertension,AIIMS,No,Dr. Sharma
+445,2025-11-30,Diabetes,Fortis,No,Dr. Sharma
+154,2025-09-24,Diabetes,Max,Yes,Dr. Sharma
+193,2025-07-24,Normal,Apollo,No,Dr. Sharma
+457,2025-05-29,Hypertension,Max,Yes,Dr. Sharma
+190,2025-06-02,Normal,Max,Yes,Dr. Sharma
+59,2025-04-02,Normal,AIIMS,No,Dr. Sharma
+296,2025-02-13,Diabetes,Max,No,Dr. Sharma
+392,2025-05-25,Heart Disease,AIIMS,Yes,Dr. Sharma
+435,2025-11-16,Heart Disease,AIIMS,No,Dr. Sharma
+467,2025-12-06,Normal,AIIMS,Yes,Dr. Sharma
+61,2025-12-29,Diabetes,Apollo,Yes,Dr. Sharma
+310,2025-08-16,Hypertension,AIIMS,Yes,Dr. Sharma
+51,2025-04-07,Normal,Apollo,Yes,Dr. Sharma
+448,2025-05-25,Heart Disease,Max,Yes,Dr. Sharma
+300,2025-09-15,Diabetes,Apollo,Yes,Dr. Sharma
+145,2025-01-08,Normal,Apollo,No,Dr. Sharma
+50,2025-02-07,Hypertension,Apollo,Yes,Dr. Sharma
+159,2025-10-21,Heart Disease,Fortis,Yes,Dr. Sharma
+163,2025-04-05,Hypertension,Fortis,Yes,Dr. Sharma
+198,2025-05-12,Diabetes,Fortis,Yes,Dr. Sharma
+452,2025-04-22,Hypertension,Max,Yes,Dr. Sharma
+204,2025-03-03,Normal,Apollo,No,Dr. Sharma
+276,2025-10-19,Diabetes,Apollo,No,Dr. Sharma
+195,2025-04-28,Normal,Fortis,Yes,Dr. Sharma
+72,2025-03-15,Normal,AIIMS,Yes,Dr. Sharma
+48,2025-05-24,Heart Disease,Apollo,No,Dr. Sharma
+439,2025-06-03,Hypertension,AIIMS,No,Dr. Sharma
+284,2025-10-07,Normal,Fortis,Yes,Dr. Sharma
+483,2025-03-11,Heart Disease,Fortis,Yes,Dr. Sharma
+418,2025-05-28,Hypertension,Max,Yes,Dr. Sharma
+135,2025-05-09,Hypertension,Fortis,No,Dr. Sharma
+319,2025-06-27,Hypertension,AIIMS,No,Dr. Sharma
+392,2025-10-04,Diabetes,Apollo,Yes,Dr. Sharma
+447,2025-12-15,Hypertension,Fortis,Yes,Dr. Sharma
+74,2025-07-10,Hypertension,AIIMS,Yes,Dr. Sharma
+121,2025-11-04,Diabetes,Apollo,No,Dr. Sharma
+454,2025-12-20,Normal,Max,No,Dr. Sharma
+405,2025-01-10,Hypertension,Max,Yes,Dr. Sharma
+439,2025-07-24,Diabetes,Apollo,No,Dr. Sharma
+377,2025-09-21,Normal,Apollo,Yes,Dr. Sharma
+324,2025-08-09,Normal,Apollo,No,Dr. Sharma
+5,2025-01-27,Normal,Fortis,Yes,Dr. Sharma
+195,2025-04-11,Diabetes,AIIMS,No,Dr. Sharma
+142,2025-12-14,Diabetes,Apollo,No,Dr. Sharma
+374,2025-02-28,Heart Disease,Max,Yes,Dr. Sharma
+87,2025-06-18,Diabetes,Max,No,Dr. Sharma
+63,2025-01-23,Heart Disease,Max,Yes,Dr. Sharma
+397,2025-02-03,Heart Disease,AIIMS,No,Dr. Sharma
+168,2025-03-18,Diabetes,Max,Yes,Dr. Sharma
+46,2025-02-13,Heart Disease,Apollo,Yes,Dr. Sharma
+264,2025-01-01,Heart Disease,Apollo,Yes,Dr. Sharma
+10,2025-10-04,Heart Disease,AIIMS,No,Dr. Sharma
+433,2025-07-19,Normal,Max,No,Dr. Sharma
+177,2025-01-25,Diabetes,Max,No,Dr. Sharma
+458,2025-11-04,Normal,Fortis,Yes,Dr. Sharma
+234,2025-11-16,Heart Disease,Apollo,No,Dr. Sharma
+257,2025-05-30,Hypertension,Max,Yes,Dr. Sharma
+6,2025-01-11,Heart Disease,Apollo,No,Dr. Sharma
+67,2025-03-15,Diabetes,Max,No,Dr. Sharma
+176,2025-01-12,Hypertension,Fortis,No,Dr. Sharma
+477,2025-04-26,Normal,Fortis,No,Dr. Sharma
+73,2025-03-22,Normal,Max,No,Dr. Sharma
+364,2025-03-27,Normal,Max,Yes,Dr. Sharma
+479,2025-04-14,Heart Disease,Apollo,Yes,Dr. Sharma
+225,2025-06-16,Heart Disease,AIIMS,Yes,Dr. Sharma
+364,2025-06-20,Hypertension,AIIMS,No,Dr. Sharma
+204,2025-02-21,Hypertension,Max,No,Dr. Sharma
+53,2025-07-09,Diabetes,Max,No,Dr. Sharma
+426,2024-12-30,Hypertension,Max,No,Dr. Sharma
+264,2025-12-29,Diabetes,Max,No,Dr. Sharma
+342,2025-10-29,Heart Disease,Apollo,Yes,Dr. Sharma
+338,2025-10-15,Normal,Apollo,No,Dr. Sharma
+196,2025-01-14,Heart Disease,AIIMS,No,Dr. Sharma
+444,2025-10-02,Heart Disease,Max,Yes,Dr. Sharma
+309,2025-09-09,Normal,Apollo,Yes,Dr. Sharma
+298,2025-03-13,Hypertension,Fortis,Yes,Dr. Sharma
+349,2025-04-07,Normal,Apollo,No,Dr. Sharma
+215,2025-10-25,Heart Disease,Fortis,Yes,Dr. Sharma
+455,2025-02-16,Normal,Max,No,Dr. Sharma
+405,2025-03-24,Normal,Max,No,Dr. Sharma
+31,2025-04-02,Normal,AIIMS,Yes,Dr. Sharma
+58,2025-08-26,Diabetes,AIIMS,No,Dr. Sharma
+284,2025-04-05,Heart Disease,AIIMS,No,Dr. Sharma
+455,2025-04-09,Normal,Max,Yes,Dr. Sharma
+231,2025-01-25,Heart Disease,Fortis,No,Dr. Sharma
+397,2025-06-22,Normal,Max,No,Dr. Sharma
+74,2025-03-25,Diabetes,Fortis,Yes,Dr. Sharma
+270,2025-04-20,Diabetes,Fortis,No,Dr. Sharma
+303,2025-03-01,Diabetes,Fortis,No,Dr. Sharma
+233,2025-09-25,Normal,Apollo,Yes,Dr. Sharma
+218,2025-10-11,Heart Disease,Fortis,No,Dr. Sharma
+156,2025-03-08,Diabetes,Max,Yes,Dr. Sharma
+144,2025-09-09,Heart Disease,Apollo,Yes,Dr. Sharma
+154,2025-12-23,Heart Disease,AIIMS,Yes,Dr. Sharma
+161,2025-08-12,Heart Disease,Max,Yes,Dr. Sharma
+477,2025-07-17,Hypertension,AIIMS,No,Dr. Sharma
+249,2025-10-29,Hypertension,Fortis,No,Dr. Sharma
+76,2025-01-08,Normal,AIIMS,Yes,Dr. Sharma
+332,2025-10-25,Heart Disease,AIIMS,Yes,Dr. Sharma
+101,2025-12-16,Diabetes,Apollo,No,Dr. Sharma
+251,2025-09-06,Diabetes,Fortis,Yes,Dr. Sharma
+324,2025-09-09,Diabetes,Fortis,Yes,Dr. Sharma
+451,2025-07-13,Heart Disease,Max,Yes,Dr. Sharma
+362,2025-01-28,Diabetes,Fortis,Yes,Dr. Sharma
+339,2025-12-24,Normal,AIIMS,No,Dr. Sharma
+3,2025-04-04,Hypertension,Max,No,Dr. Sharma
+37,2025-05-07,Diabetes,Apollo,Yes,Dr. Sharma
+122,2025-03-13,Heart Disease,AIIMS,Yes,Dr. Sharma
+49,2025-10-21,Diabetes,Fortis,No,Dr. Sharma
+227,2025-03-19,Normal,AIIMS,Yes,Dr. Sharma
+42,2025-07-19,Normal,Apollo,No,Dr. Sharma
+458,2025-12-26,Diabetes,AIIMS,Yes,Dr. Sharma
+222,2025-08-13,Diabetes,Max,Yes,Dr. Sharma
+109,2025-04-30,Heart Disease,AIIMS,Yes,Dr. Sharma
+265,2025-01-31,Diabetes,Apollo,No,Dr. Sharma
+371,2025-03-18,Normal,Apollo,Yes,Dr. Sharma
+58,2025-04-16,Normal,Apollo,No,Dr. Sharma
+252,2025-07-13,Diabetes,Fortis,Yes,Dr. Sharma
+284,2025-07-24,Hypertension,Max,No,Dr. Sharma
+293,2025-01-07,Hypertension,Fortis,No,Dr. Sharma
+14,2025-09-29,Diabetes,Fortis,No,Dr. Sharma
+130,2025-08-16,Normal,Apollo,Yes,Dr. Sharma
+21,2025-04-18,Hypertension,Max,No,Dr. Sharma
+117,2025-12-18,Heart Disease,Fortis,No,Dr. Sharma
+20,2025-04-12,Normal,Fortis,Yes,Dr. Sharma
+264,2025-03-31,Heart Disease,Apollo,No,Dr. Sharma
+492,2025-07-08,Normal,Max,Yes,Dr. Sharma
+488,2025-07-06,Normal,Fortis,Yes,Dr. Sharma
+403,2025-04-01,Normal,Apollo,Yes,Dr. Sharma
+167,2025-05-07,Heart Disease,Fortis,No,Dr. Sharma
+198,2025-02-05,Diabetes,Fortis,Yes,Dr. Sharma
+39,2025-02-10,Normal,AIIMS,Yes,Dr. Sharma
+284,2025-06-30,Heart Disease,Fortis,No,Dr. Sharma
+370,2025-02-12,Hypertension,Max,No,Dr. Sharma
+2,2025-04-10,Normal,AIIMS,No,Dr. Sharma
+412,2025-06-29,Diabetes,AIIMS,Yes,Dr. Sharma
+263,2025-03-28,Heart Disease,Fortis,No,Dr. Sharma
+24,2025-07-08,Normal,Max,No,Dr. Sharma
+193,2025-09-27,Diabetes,Apollo,No,Dr. Sharma
+327,2025-01-12,Diabetes,Apollo,No,Dr. Sharma
+93,2025-12-14,Hypertension,Fortis,No,Dr. Sharma
+46,2025-09-25,Normal,Apollo,Yes,Dr. Sharma
+406,2025-01-09,Heart Disease,Fortis,No,Dr. Sharma
+492,2025-01-11,Heart Disease,Fortis,No,Dr. Sharma
+471,2025-06-23,Heart Disease,AIIMS,No,Dr. Sharma
+405,2025-11-25,Diabetes,Max,No,Dr. Sharma
+312,2025-10-12,Hypertension,Fortis,No,Dr. Sharma
+415,2025-06-14,Normal,Max,No,Dr. Sharma
+243,2025-03-17,Heart Disease,Fortis,Yes,Dr. Sharma
+185,2025-01-03,Heart Disease,Max,No,Dr. Sharma
+126,2025-10-29,Hypertension,Apollo,Yes,Dr. Sharma
+49,2025-02-08,Hypertension,AIIMS,No,Dr. Sharma
+53,2025-05-17,Diabetes,AIIMS,Yes,Dr. Sharma
+61,2025-05-08,Hypertension,AIIMS,No,Dr. Sharma
+161,2025-08-04,Diabetes,Max,Yes,Dr. Sharma
+256,2025-12-22,Diabetes,AIIMS,No,Dr. Sharma
+373,2025-01-25,Normal,Apollo,No,Dr. Sharma
+153,2025-08-13,Heart Disease,Apollo,No,Dr. Sharma
+96,2025-12-05,Heart Disease,Apollo,Yes,Dr. Sharma
+493,2025-04-02,Diabetes,Apollo,Yes,Dr. Sharma
+110,2025-09-04,Normal,Apollo,Yes,Dr. Sharma
+313,2025-01-20,Heart Disease,AIIMS,Yes,Dr. Sharma
+366,2025-05-17,Hypertension,Apollo,No,Dr. Sharma
+197,2025-11-12,Heart Disease,AIIMS,Yes,Dr. Sharma
+316,2025-02-24,Heart Disease,AIIMS,Yes,Dr. Sharma
+278,2024-12-31,Diabetes,Max,Yes,Dr. Sharma
+403,2025-03-29,Normal,Fortis,Yes,Dr. Sharma
+264,2025-02-09,Normal,Max,Yes,Dr. Sharma
+330,2025-03-28,Diabetes,Apollo,No,Dr. Sharma
+44,2025-07-11,Diabetes,Max,No,Dr. Sharma
+149,2025-04-02,Hypertension,AIIMS,No,Dr. Sharma
+442,2025-10-23,Hypertension,Apollo,Yes,Dr. Sharma
+44,2025-04-19,Hypertension,Max,Yes,Dr. Sharma
+407,2025-02-10,Diabetes,Apollo,No,Dr. Sharma
+443,2025-02-18,Normal,AIIMS,No,Dr. Sharma
+475,2025-01-30,Normal,Fortis,Yes,Dr. Sharma
+207,2025-06-21,Heart Disease,Apollo,Yes,Dr. Sharma
+330,2025-08-01,Hypertension,Fortis,No,Dr. Sharma
+157,2025-03-07,Heart Disease,Apollo,Yes,Dr. Sharma
+68,2025-02-23,Normal,Max,No,Dr. Sharma
+118,2025-01-18,Normal,AIIMS,No,Dr. Sharma
+30,2025-06-21,Diabetes,Apollo,Yes,Dr. Sharma
+442,2025-05-04,Diabetes,Apollo,Yes,Dr. Sharma
+175,2025-11-19,Normal,Fortis,Yes,Dr. Sharma
+89,2025-01-05,Diabetes,Fortis,No,Dr. Sharma
+135,2025-02-18,Diabetes,Max,Yes,Dr. Sharma
+317,2024-12-30,Normal,AIIMS,Yes,Dr. Sharma
+280,2025-03-18,Hypertension,Max,Yes,Dr. Sharma
+165,2025-12-10,Diabetes,Max,No,Dr. Sharma
+342,2025-03-13,Normal,AIIMS,Yes,Dr. Sharma
+390,2025-10-16,Heart Disease,Max,Yes,Dr. Sharma
+238,2025-02-25,Normal,Apollo,No,Dr. Sharma
+296,2025-02-19,Diabetes,AIIMS,Yes,Dr. Sharma
+89,2025-12-11,Hypertension,Max,Yes,Dr. Sharma
+340,2025-07-23,Hypertension,Fortis,No,Dr. Sharma
+428,2025-01-05,Normal,Apollo,Yes,Dr. Sharma
+3,2025-11-26,Diabetes,Apollo,Yes,Dr. Sharma
+349,2025-06-01,Diabetes,Fortis,No,Dr. Sharma
+97,2025-12-03,Normal,Apollo,No,Dr. Sharma
+21,2025-12-13,Normal,Max,Yes,Dr. Sharma
+206,2025-01-27,Hypertension,Fortis,No,Dr. Sharma
+412,2025-04-14,Heart Disease,Apollo,Yes,Dr. Sharma
+48,2025-06-27,Diabetes,Max,Yes,Dr. Sharma
+453,2025-11-30,Diabetes,Apollo,Yes,Dr. Sharma
+282,2025-04-27,Diabetes,Max,No,Dr. Sharma
+374,2025-08-14,Hypertension,AIIMS,No,Dr. Sharma
+380,2025-06-17,Diabetes,AIIMS,Yes,Dr. Sharma
+14,2025-05-11,Heart Disease,Fortis,Yes,Dr. Sharma
+267,2025-05-22,Diabetes,Max,No,Dr. Sharma
+146,2025-11-29,Hypertension,Apollo,Yes,Dr. Sharma
+204,2025-04-26,Normal,AIIMS,No,Dr. Sharma
+287,2025-11-15,Diabetes,AIIMS,No,Dr. Sharma
+5,2025-12-18,Hypertension,Fortis,No,Dr. Sharma
+403,2025-08-15,Diabetes,Max,Yes,Dr. Sharma
+350,2025-01-18,Hypertension,Max,No,Dr. Sharma
+179,2025-05-31,Heart Disease,AIIMS,No,Dr. Sharma
+259,2025-10-02,Heart Disease,AIIMS,Yes,Dr. Sharma
+344,2025-09-29,Normal,Max,No,Dr. Sharma
+459,2025-10-05,Diabetes,AIIMS,Yes,Dr. Sharma
+336,2025-05-14,Hypertension,Max,No,Dr. Sharma
+215,2025-07-25,Hypertension,Max,No,Dr. Sharma
+256,2025-01-04,Diabetes,AIIMS,No,Dr. Sharma
+20,2024-12-30,Hypertension,Max,Yes,Dr. Sharma
+136,2025-04-28,Hypertension,Max,Yes,Dr. Sharma
+369,2025-12-05,Heart Disease,AIIMS,No,Dr. Sharma
+151,2025-07-13,Hypertension,Fortis,Yes,Dr. Sharma
+76,2025-08-14,Hypertension,Max,Yes,Dr. Sharma
+56,2025-03-13,Diabetes,Fortis,Yes,Dr. Sharma
+78,2025-10-18,Hypertension,AIIMS,No,Dr. Sharma
+438,2025-04-19,Diabetes,Fortis,Yes,Dr. Sharma
+205,2025-09-01,Normal,Max,Yes,Dr. Sharma
+467,2025-06-26,Hypertension,Fortis,Yes,Dr. Sharma
+179,2025-12-09,Hypertension,Apollo,Yes,Dr. Sharma
+460,2025-09-04,Heart Disease,Max,No,Dr. Sharma
+454,2025-02-16,Normal,AIIMS,Yes,Dr. Sharma
+373,2025-01-17,Hypertension,AIIMS,Yes,Dr. Sharma
+256,2025-10-01,Diabetes,Max,Yes,Dr. Sharma
+287,2025-05-27,Diabetes,AIIMS,Yes,Dr. Sharma
+44,2025-04-30,Hypertension,AIIMS,No,Dr. Sharma
+467,2025-09-25,Diabetes,Fortis,Yes,Dr. Sharma
+319,2025-10-22,Diabetes,AIIMS,No,Dr. Sharma
+189,2025-06-07,Normal,AIIMS,No,Dr. Sharma
+260,2025-10-21,Hypertension,Fortis,Yes,Dr. Sharma
+298,2025-06-21,Diabetes,Max,No,Dr. Sharma
+235,2025-09-21,Normal,Fortis,No,Dr. Sharma
+30,2025-02-09,Normal,AIIMS,No,Dr. Sharma
+227,2025-09-23,Heart Disease,AIIMS,No,Dr. Sharma
+243,2025-09-14,Diabetes,Fortis,No,Dr. Sharma
+53,2025-02-04,Hypertension,Fortis,Yes,Dr. Sharma
+194,2025-09-11,Hypertension,Max,No,Dr. Sharma
+371,2025-05-25,Heart Disease,AIIMS,Yes,Dr. Sharma
+199,2025-03-28,Hypertension,AIIMS,Yes,Dr. Sharma
+105,2025-05-22,Normal,Fortis,Yes,Dr. Sharma
+273,2025-01-27,Normal,Fortis,No,Dr. Sharma
+226,2025-05-31,Normal,Fortis,Yes,Dr. Sharma
+316,2025-01-12,Normal,Fortis,No,Dr. Sharma
+473,2025-09-27,Diabetes,Max,No,Dr. Sharma
+234,2025-10-28,Hypertension,AIIMS,Yes,Dr. Sharma
+243,2025-02-17,Normal,Apollo,Yes,Dr. Sharma
+272,2025-07-16,Heart Disease,AIIMS,Yes,Dr. Sharma
+395,2025-06-11,Diabetes,AIIMS,No,Dr. Sharma
+252,2025-09-08,Normal,AIIMS,No,Dr. Sharma
+422,2025-07-16,Hypertension,Max,Yes,Dr. Sharma
+327,2025-08-06,Normal,AIIMS,Yes,Dr. Sharma
+296,2025-05-22,Heart Disease,Max,No,Dr. Sharma
+264,2025-04-14,Hypertension,Fortis,Yes,Dr. Sharma
+309,2025-05-02,Heart Disease,Fortis,Yes,Dr. Sharma
+357,2025-07-19,Diabetes,AIIMS,No,Dr. Sharma
+273,2025-01-30,Normal,Max,No,Dr. Sharma
+210,2025-10-06,Diabetes,Max,No,Dr. Sharma
+343,2025-09-09,Normal,Apollo,No,Dr. Sharma
+225,2025-04-29,Hypertension,AIIMS,No,Dr. Sharma
+224,2025-05-03,Heart Disease,AIIMS,Yes,Dr. Sharma
+9,2025-04-18,Hypertension,Max,No,Dr. Sharma
+419,2025-12-29,Diabetes,AIIMS,No,Dr. Sharma
+102,2025-10-08,Hypertension,Apollo,No,Dr. Sharma
+139,2025-10-10,Normal,Max,Yes,Dr. Sharma
+146,2025-08-10,Hypertension,Apollo,No,Dr. Sharma
+111,2025-10-14,Heart Disease,Max,No,Dr. Sharma
+321,2025-02-23,Normal,AIIMS,Yes,Dr. Sharma
+146,2025-06-14,Normal,Fortis,No,Dr. Sharma
+216,2025-05-27,Hypertension,AIIMS,No,Dr. Sharma
+235,2025-05-20,Diabetes,AIIMS,Yes,Dr. Sharma
+268,2025-02-13,Heart Disease,Max,Yes,Dr. Sharma
+92,2025-06-09,Hypertension,Apollo,No,Dr. Sharma
+100,2025-10-17,Diabetes,AIIMS,No,Dr. Sharma
+228,2025-04-20,Diabetes,AIIMS,No,Dr. Sharma
+289,2025-01-16,Heart Disease,AIIMS,No,Dr. Sharma
+303,2025-08-20,Heart Disease,AIIMS,Yes,Dr. Sharma
+79,2025-05-27,Normal,Fortis,No,Dr. Sharma
+205,2025-06-18,Normal,AIIMS,Yes,Dr. Sharma
+483,2025-12-12,Diabetes,Fortis,Yes,Dr. Sharma
+409,2025-02-14,Diabetes,Apollo,Yes,Dr. Sharma
+260,2025-01-30,Diabetes,Apollo,No,Dr. Sharma
+402,2025-07-16,Heart Disease,Fortis,No,Dr. Sharma
+287,2025-12-18,Heart Disease,Apollo,No,Dr. Sharma
+364,2025-07-07,Normal,AIIMS,Yes,Dr. Sharma
+362,2025-09-07,Hypertension,Max,Yes,Dr. Sharma
+441,2025-01-17,Hypertension,AIIMS,No,Dr. Sharma
+29,2025-01-03,Heart Disease,AIIMS,Yes,Dr. Sharma
+159,2025-05-07,Normal,Apollo,Yes,Dr. Sharma
+373,2025-03-06,Hypertension,AIIMS,No,Dr. Sharma
+430,2025-10-18,Normal,Apollo,Yes,Dr. Sharma
+73,2025-12-01,Hypertension,Fortis,No,Dr. Sharma
+464,2025-01-21,Diabetes,Max,Yes,Dr. Sharma
+345,2025-06-06,Heart Disease,AIIMS,No,Dr. Sharma
+56,2025-03-05,Heart Disease,Max,Yes,Dr. Sharma
+117,2025-12-24,Diabetes,Max,No,Dr. Sharma
+141,2025-06-28,Diabetes,Fortis,No,Dr. Sharma
+322,2025-10-15,Normal,Max,Yes,Dr. Sharma
+316,2025-08-30,Hypertension,Max,No,Dr. Sharma
+484,2025-02-01,Heart Disease,Apollo,No,Dr. Sharma
+162,2025-06-27,Hypertension,Fortis,Yes,Dr. Sharma
+493,2025-01-30,Hypertension,Fortis,No,Dr. Sharma
+115,2025-08-18,Normal,Apollo,No,Dr. Sharma
+269,2025-06-25,Heart Disease,Apollo,No,Dr. Sharma
+379,2025-09-20,Diabetes,Apollo,Yes,Dr. Sharma
+33,2025-09-28,Heart Disease,AIIMS,No,Dr. Sharma
+254,2025-08-09,Normal,Fortis,No,Dr. Sharma
+240,2025-06-24,Heart Disease,Fortis,Yes,Dr. Sharma
+216,2025-12-07,Heart Disease,Max,Yes,Dr. Sharma
+318,2025-12-12,Hypertension,Fortis,Yes,Dr. Sharma
+210,2025-06-25,Diabetes,Max,No,Dr. Sharma
+221,2025-02-15,Normal,Apollo,Yes,Dr. Sharma
+333,2025-09-11,Normal,Apollo,Yes,Dr. Sharma
+156,2025-01-09,Diabetes,Fortis,Yes,Dr. Sharma
+181,2025-08-29,Hypertension,Apollo,No,Dr. Sharma
+101,2025-04-13,Diabetes,Max,No,Dr. Sharma
+306,2025-12-17,Normal,Apollo,No,Dr. Sharma
+321,2025-06-12,Heart Disease,AIIMS,Yes,Dr. Sharma
+262,2025-02-22,Heart Disease,Max,No,Dr. Sharma
+114,2025-04-02,Heart Disease,AIIMS,No,Dr. Sharma
+279,2025-04-26,Hypertension,Fortis,No,Dr. Sharma
+112,2025-05-05,Diabetes,AIIMS,No,Dr. Sharma
+270,2025-06-14,Diabetes,Fortis,No,Dr. Sharma
+375,2025-10-17,Hypertension,AIIMS,Yes,Dr. Sharma
+96,2025-07-14,Hypertension,Max,No,Dr. Sharma
+155,2025-11-25,Heart Disease,AIIMS,Yes,Dr. Sharma
+373,2025-09-18,Heart Disease,AIIMS,Yes,Dr. Sharma
+228,2025-04-15,Heart Disease,AIIMS,Yes,Dr. Sharma
+416,2025-12-02,Heart Disease,Fortis,No,Dr. Sharma
+475,2025-10-29,Hypertension,AIIMS,Yes,Dr. Sharma
+461,2025-05-09,Normal,Fortis,No,Dr. Sharma
+69,2025-06-15,Normal,Apollo,No,Dr. Sharma
+378,2025-03-28,Hypertension,Apollo,Yes,Dr. Sharma
+262,2025-07-26,Diabetes,AIIMS,Yes,Dr. Sharma
+48,2025-11-01,Diabetes,Max,No,Dr. Sharma
+43,2025-04-12,Diabetes,Max,No,Dr. Sharma
+109,2025-04-02,Heart Disease,Fortis,No,Dr. Sharma
+111,2025-09-26,Hypertension,Max,No,Dr. Sharma
+476,2025-12-01,Hypertension,Max,No,Dr. Sharma
+35,2025-07-20,Diabetes,Fortis,No,Dr. Sharma
+225,2025-10-28,Heart Disease,AIIMS,No,Dr. Sharma
+214,2025-04-06,Diabetes,Max,No,Dr. Sharma
+44,2025-06-05,Diabetes,Apollo,No,Dr. Sharma
+26,2025-11-21,Heart Disease,Max,Yes,Dr. Sharma
+55,2025-03-14,Normal,Max,No,Dr. Sharma
+439,2025-11-09,Diabetes,AIIMS,No,Dr. Sharma
+452,2025-11-29,Heart Disease,Apollo,No,Dr. Sharma
+279,2025-02-25,Diabetes,Fortis,Yes,Dr. Sharma
+352,2025-09-11,Hypertension,Apollo,Yes,Dr. Sharma
+222,2025-08-10,Diabetes,Max,Yes,Dr. Sharma
+412,2025-02-15,Heart Disease,Apollo,Yes,Dr. Sharma
+229,2025-12-14,Hypertension,Fortis,No,Dr. Sharma
+450,2025-05-09,Heart Disease,AIIMS,No,Dr. Sharma
+494,2025-11-19,Normal,Max,No,Dr. Sharma
+126,2025-03-13,Heart Disease,AIIMS,No,Dr. Sharma
+436,2025-08-26,Heart Disease,Fortis,No,Dr. Sharma
+464,2025-03-26,Hypertension,Max,No,Dr. Sharma
+333,2025-08-14,Diabetes,AIIMS,No,Dr. Sharma
+318,2025-08-24,Diabetes,Apollo,No,Dr. Sharma
+191,2025-11-24,Normal,Fortis,No,Dr. Sharma
+158,2025-08-20,Normal,Apollo,No,Dr. Sharma
+93,2025-08-19,Normal,AIIMS,No,Dr. Sharma
+122,2025-01-18,Heart Disease,Apollo,No,Dr. Sharma
+168,2025-09-08,Hypertension,Fortis,Yes,Dr. Sharma
+182,2024-12-31,Diabetes,AIIMS,No,Dr. Sharma
+404,2025-08-18,Heart Disease,Max,No,Dr. Sharma
+124,2025-06-21,Normal,Apollo,Yes,Dr. Sharma
+22,2025-07-06,Diabetes,AIIMS,Yes,Dr. Sharma
+3,2025-11-01,Normal,AIIMS,No,Dr. Sharma
+457,2025-02-04,Diabetes,Max,Yes,Dr. Sharma
+181,2025-06-12,Diabetes,AIIMS,Yes,Dr. Sharma
+264,2025-02-05,Diabetes,Apollo,No,Dr. Sharma
+215,2025-02-01,Hypertension,Apollo,No,Dr. Sharma
+96,2025-11-18,Normal,Fortis,Yes,Dr. Sharma
+50,2025-06-07,Normal,Fortis,No,Dr. Sharma
+120,2025-05-10,Diabetes,Apollo,No,Dr. Sharma
+326,2025-07-13,Hypertension,Fortis,Yes,Dr. Sharma
+390,2025-01-01,Hypertension,Apollo,No,Dr. Sharma
+294,2025-04-27,Normal,Apollo,Yes,Dr. Sharma
+247,2025-11-09,Hypertension,AIIMS,No,Dr. Sharma
+282,2025-10-22,Hypertension,Max,Yes,Dr. Sharma
+311,2025-03-04,Heart Disease,Max,Yes,Dr. Sharma
+18,2025-07-17,Normal,Max,No,Dr. Sharma
+288,2025-11-17,Hypertension,Max,No,Dr. Sharma
+294,2025-08-10,Heart Disease,Fortis,Yes,Dr. Sharma
+322,2025-05-23,Diabetes,Fortis,No,Dr. Sharma
+485,2025-03-25,Hypertension,Apollo,Yes,Dr. Sharma
+144,2025-11-25,Diabetes,Max,No,Dr. Sharma
+245,2025-04-06,Normal,Max,No,Dr. Sharma
+93,2025-12-05,Heart Disease,Max,No,Dr. Sharma
+351,2025-02-11,Diabetes,AIIMS,No,Dr. Sharma
+197,2025-10-19,Normal,Max,No,Dr. Sharma
+211,2025-05-13,Diabetes,Max,No,Dr. Sharma
+436,2025-01-01,Diabetes,Max,No,Dr. Sharma
+5,2025-12-15,Heart Disease,Fortis,Yes,Dr. Sharma
+125,2025-10-17,Heart Disease,Fortis,No,Dr. Sharma
+494,2025-08-27,Normal,Apollo,No,Dr. Sharma
+71,2025-09-21,Hypertension,Fortis,No,Dr. Sharma
+117,2025-11-19,Hypertension,Apollo,Yes,Dr. Sharma
+174,2025-12-26,Normal,Max,No,Dr. Sharma
+58,2025-12-17,Heart Disease,Max,Yes,Dr. Sharma
+305,2025-09-23,Normal,Apollo,No,Dr. Sharma
+373,2025-12-08,Hypertension,Apollo,Yes,Dr. Sharma
+228,2025-01-08,Normal,Fortis,No,Dr. Sharma
+289,2025-07-19,Diabetes,Max,Yes,Dr. Sharma
+187,2025-12-12,Heart Disease,AIIMS,No,Dr. Sharma
+160,2025-05-31,Hypertension,Apollo,No,Dr. Sharma
+75,2025-10-05,Diabetes,Apollo,Yes,Dr. Sharma
+372,2025-05-13,Diabetes,Apollo,No,Dr. Sharma
+330,2025-03-24,Hypertension,Apollo,Yes,Dr. Sharma
+450,2025-11-10,Normal,AIIMS,Yes,Dr. Sharma
+151,2025-01-16,Normal,Max,Yes,Dr. Sharma
+386,2025-06-16,Normal,Fortis,No,Dr. Sharma
+242,2025-12-06,Heart Disease,AIIMS,Yes,Dr. Sharma
+477,2025-02-10,Hypertension,AIIMS,Yes,Dr. Sharma
+495,2025-12-06,Diabetes,AIIMS,Yes,Dr. Sharma
+466,2025-02-03,Heart Disease,AIIMS,Yes,Dr. Sharma
+51,2024-12-30,Diabetes,Max,No,Dr. Sharma
+45,2025-03-14,Hypertension,Max,No,Dr. Sharma
+233,2025-08-16,Heart Disease,Apollo,No,Dr. Sharma
+247,2025-10-25,Heart Disease,Apollo,No,Dr. Sharma
+450,2025-01-10,Normal,Fortis,Yes,Dr. Sharma
+48,2025-04-29,Hypertension,AIIMS,Yes,Dr. Sharma
+25,2025-11-22,Hypertension,Max,No,Dr. Sharma
+69,2025-02-05,Normal,Fortis,Yes,Dr. Sharma
+72,2025-08-26,Diabetes,Apollo,No,Dr. Sharma
+411,2025-06-19,Normal,Fortis,Yes,Dr. Sharma
+439,2025-07-25,Diabetes,Fortis,Yes,Dr. Sharma
+199,2025-03-10,Normal,Fortis,Yes,Dr. Sharma
+495,2025-10-07,Normal,AIIMS,No,Dr. Sharma
+483,2025-10-17,Hypertension,Fortis,Yes,Dr. Sharma
+149,2025-09-24,Normal,Apollo,Yes,Dr. Sharma
+200,2025-10-29,Heart Disease,AIIMS,No,Dr. Sharma
+93,2025-07-26,Hypertension,Fortis,No,Dr. Sharma
+158,2025-10-17,Normal,Max,No,Dr. Sharma
+147,2025-07-26,Diabetes,AIIMS,No,Dr. Sharma
+275,2025-10-31,Heart Disease,Max,Yes,Dr. Sharma
+487,2025-05-20,Hypertension,Fortis,Yes,Dr. Sharma
+154,2025-02-19,Normal,Fortis,No,Dr. Sharma
+167,2025-05-21,Normal,Apollo,No,Dr. Sharma
+116,2025-02-28,Diabetes,AIIMS,No,Dr. Sharma
+119,2025-11-28,Diabetes,Max,Yes,Dr. Sharma
+490,2025-07-04,Diabetes,AIIMS,Yes,Dr. Sharma
+309,2025-11-16,Heart Disease,AIIMS,No,Dr. Sharma
+149,2025-09-10,Heart Disease,Fortis,Yes,Dr. Sharma
+118,2025-12-28,Normal,Fortis,Yes,Dr. Sharma
+153,2025-11-10,Heart Disease,Apollo,Yes,Dr. Sharma
+95,2025-01-21,Heart Disease,Max,Yes,Dr. Sharma
+225,2025-03-13,Heart Disease,Max,No,Dr. Sharma
+444,2025-07-07,Diabetes,Fortis,Yes,Dr. Sharma
+425,2025-10-28,Normal,Max,Yes,Dr. Sharma
+358,2025-04-21,Normal,Max,No,Dr. Sharma
+478,2025-06-09,Normal,AIIMS,No,Dr. Sharma
+332,2025-03-17,Hypertension,Apollo,No,Dr. Sharma
+99,2025-04-11,Hypertension,AIIMS,No,Dr. Sharma
+252,2025-05-10,Diabetes,Max,No,Dr. Sharma
+217,2025-01-18,Diabetes,AIIMS,Yes,Dr. Sharma
+259,2025-09-10,Normal,Max,Yes,Dr. Sharma
+445,2025-07-08,Heart Disease,AIIMS,No,Dr. Sharma
+384,2025-02-14,Normal,Apollo,No,Dr. Sharma
+251,2025-02-13,Normal,Fortis,No,Dr. Sharma
+454,2025-06-23,Diabetes,Fortis,Yes,Dr. Sharma
+413,2025-10-20,Normal,AIIMS,No,Dr. Sharma
+408,2025-07-29,Normal,AIIMS,Yes,Dr. Sharma
+250,2025-11-21,Normal,Max,Yes,Dr. Sharma
+91,2025-04-11,Hypertension,Apollo,No,Dr. Sharma
+282,2025-07-23,Hypertension,Fortis,Yes,Dr. Sharma
+241,2025-11-19,Hypertension,Fortis,Yes,Dr. Sharma
+471,2025-11-14,Normal,Fortis,No,Dr. Sharma
+462,2025-01-28,Normal,AIIMS,No,Dr. Sharma
+425,2025-10-25,Hypertension,Max,No,Dr. Sharma
+222,2025-04-27,Diabetes,AIIMS,Yes,Dr. Sharma
+329,2025-01-27,Hypertension,Max,No,Dr. Sharma
+298,2025-04-17,Normal,Fortis,Yes,Dr. Sharma
+372,2025-02-21,Normal,Apollo,Yes,Dr. Sharma
+457,2025-12-06,Hypertension,AIIMS,No,Dr. Sharma
+154,2025-12-19,Diabetes,Fortis,Yes,Dr. Sharma
+38,2025-09-28,Diabetes,Max,Yes,Dr. Sharma
+397,2025-01-24,Heart Disease,Apollo,Yes,Dr. Sharma
+138,2025-03-22,Heart Disease,Max,No,Dr. Sharma
+20,2025-11-12,Diabetes,Apollo,No,Dr. Sharma
+106,2025-12-27,Heart Disease,AIIMS,No,Dr. Sharma
+69,2025-03-29,Heart Disease,Apollo,Yes,Dr. Sharma
+461,2025-08-21,Diabetes,Fortis,No,Dr. Sharma
+442,2025-03-11,Normal,Apollo,Yes,Dr. Sharma
+327,2025-07-31,Heart Disease,AIIMS,No,Dr. Sharma
+374,2025-10-24,Heart Disease,Max,No,Dr. Sharma
+197,2025-10-30,Hypertension,Fortis,Yes,Dr. Sharma
+149,2025-02-24,Diabetes,Apollo,Yes,Dr. Sharma
+301,2025-08-31,Diabetes,AIIMS,Yes,Dr. Sharma
+70,2025-12-16,Heart Disease,Apollo,No,Dr. Sharma
+173,2025-11-30,Hypertension,AIIMS,Yes,Dr. Sharma
+116,2025-04-01,Hypertension,Apollo,Yes,Dr. Sharma
+63,2025-04-20,Heart Disease,Max,Yes,Dr. Sharma
+84,2025-04-05,Hypertension,Max,No,Dr. Sharma
+88,2025-01-31,Diabetes,Fortis,Yes,Dr. Sharma
+126,2025-12-14,Diabetes,Fortis,No,Dr. Sharma
+253,2025-09-09,Diabetes,AIIMS,No,Dr. Sharma
+46,2025-03-29,Hypertension,Max,No,Dr. Sharma
+119,2025-11-21,Hypertension,Fortis,Yes,Dr. Sharma
+153,2025-01-10,Diabetes,AIIMS,No,Dr. Sharma
+209,2025-05-27,Hypertension,Max,Yes,Dr. Sharma
+214,2025-06-13,Hypertension,Apollo,Yes,Dr. Sharma
+486,2025-09-14,Normal,Apollo,Yes,Dr. Sharma
+275,2025-03-12,Heart Disease,Fortis,Yes,Dr. Sharma
+438,2025-04-02,Hypertension,AIIMS,Yes,Dr. Sharma
+13,2025-03-18,Diabetes,Fortis,Yes,Dr. Sharma
+440,2025-06-05,Heart Disease,AIIMS,Yes,Dr. Sharma
+57,2025-03-18,Heart Disease,Max,Yes,Dr. Sharma
+453,2025-10-25,Hypertension,Max,No,Dr. Sharma
+294,2025-01-04,Heart Disease,Max,Yes,Dr. Sharma
+55,2025-06-09,Normal,Fortis,No,Dr. Sharma
+44,2025-08-19,Normal,AIIMS,Yes,Dr. Sharma
+34,2025-08-22,Heart Disease,AIIMS,No,Dr. Sharma
+141,2025-08-06,Hypertension,Fortis,Yes,Dr. Sharma
+416,2025-10-07,Normal,Max,No,Dr. Sharma
+301,2025-07-04,Normal,Max,No,Dr. Sharma
+320,2025-06-09,Heart Disease,AIIMS,Yes,Dr. Sharma
+153,2025-08-11,Diabetes,AIIMS,Yes,Dr. Sharma
+347,2025-05-04,Normal,Max,Yes,Dr. Sharma
+324,2025-05-13,Hypertension,AIIMS,Yes,Dr. Sharma
+163,2025-05-26,Hypertension,Max,No,Dr. Sharma
+361,2025-08-15,Normal,Max,No,Dr. Sharma
+115,2025-01-30,Normal,AIIMS,No,Dr. Sharma
+295,2025-05-19,Heart Disease,Max,Yes,Dr. Sharma
+406,2025-04-24,Hypertension,Fortis,Yes,Dr. Sharma
+448,2025-09-25,Normal,Max,No,Dr. Sharma
+433,2025-01-11,Hypertension,Apollo,Yes,Dr. Sharma
+434,2025-08-09,Diabetes,Max,Yes,Dr. Sharma
+413,2025-07-20,Heart Disease,Fortis,No,Dr. Sharma
+36,2025-02-20,Hypertension,Fortis,Yes,Dr. Sharma
+140,2025-01-17,Normal,Max,Yes,Dr. Sharma
+330,2025-11-21,Heart Disease,Max,Yes,Dr. Sharma
+370,2025-08-21,Hypertension,AIIMS,Yes,Dr. Sharma
+25,2025-07-15,Hypertension,Max,No,Dr. Sharma
+316,2025-11-16,Hypertension,Apollo,No,Dr. Sharma
+312,2025-12-27,Diabetes,AIIMS,Yes,Dr. Sharma
+261,2025-11-14,Diabetes,Max,Yes,Dr. Sharma
+492,2025-10-24,Diabetes,AIIMS,No,Dr. Sharma
+113,2025-10-11,Diabetes,Apollo,Yes,Dr. Sharma
+349,2025-01-20,Diabetes,Max,No,Dr. Sharma
+161,2025-10-30,Heart Disease,AIIMS,No,Dr. Sharma
+434,2025-02-08,Normal,Apollo,Yes,Dr. Sharma
+208,2025-06-03,Normal,AIIMS,No,Dr. Sharma
+34,2025-09-06,Hypertension,Fortis,Yes,Dr. Sharma
+281,2025-07-16,Diabetes,AIIMS,No,Dr. Sharma
+31,2025-06-05,Hypertension,AIIMS,No,Dr. Sharma
+120,2025-05-20,Hypertension,Apollo,No,Dr. Sharma
+400,2025-01-28,Hypertension,Apollo,Yes,Dr. Sharma
+3,2025-12-06,Diabetes,Apollo,No,Dr. Sharma
+126,2025-05-07,Hypertension,Apollo,Yes,Dr. Sharma
+3,2025-02-15,Hypertension,Apollo,No,Dr. Sharma
+79,2025-10-04,Hypertension,Apollo,Yes,Dr. Sharma
+465,2025-06-20,Diabetes,AIIMS,No,Dr. Sharma
+371,2025-05-24,Normal,Apollo,No,Dr. Sharma
+8,2025-05-13,Diabetes,Apollo,No,Dr. Sharma
+255,2025-09-10,Diabetes,Max,No,Dr. Sharma
+110,2025-08-31,Diabetes,AIIMS,Yes,Dr. Sharma
+365,2025-01-03,Normal,Apollo,Yes,Dr. Sharma
+13,2025-12-27,Hypertension,Fortis,Yes,Dr. Sharma
+6,2025-10-19,Normal,Max,Yes,Dr. Sharma
+476,2025-10-31,Heart Disease,Apollo,Yes,Dr. Sharma
+152,2025-07-12,Diabetes,Max,No,Dr. Sharma
+217,2025-07-16,Diabetes,Fortis,No,Dr. Sharma
+447,2025-06-20,Hypertension,Fortis,Yes,Dr. Sharma
+94,2025-05-11,Normal,AIIMS,Yes,Dr. Sharma
+390,2025-12-03,Diabetes,AIIMS,No,Dr. Sharma
+381,2025-08-20,Diabetes,Max,Yes,Dr. Sharma
+309,2025-07-12,Diabetes,Max,No,Dr. Sharma
+302,2025-09-30,Heart Disease,Apollo,Yes,Dr. Sharma
+115,2025-03-08,Diabetes,Max,No,Dr. Sharma
+60,2025-01-18,Diabetes,Fortis,Yes,Dr. Sharma
+72,2025-01-25,Diabetes,Apollo,No,Dr. Sharma
+37,2025-11-07,Heart Disease,Max,Yes,Dr. Sharma
+157,2025-03-17,Normal,AIIMS,Yes,Dr. Sharma
+48,2025-11-21,Hypertension,Fortis,No,Dr. Sharma
+357,2025-10-23,Heart Disease,Fortis,No,Dr. Sharma
+344,2025-11-17,Normal,Apollo,Yes,Dr. Sharma
+465,2025-08-04,Diabetes,Max,Yes,Dr. Sharma
+347,2025-03-24,Diabetes,Apollo,No,Dr. Sharma
+103,2025-09-06,Normal,Fortis,Yes,Dr. Sharma
+250,2025-12-05,Hypertension,Max,Yes,Dr. Sharma
+4,2025-03-14,Heart Disease,AIIMS,Yes,Dr. Sharma
+220,2025-08-17,Normal,Max,No,Dr. Sharma
+387,2025-11-12,Diabetes,Max,Yes,Dr. Sharma
+199,2025-06-16,Hypertension,AIIMS,No,Dr. Sharma
+453,2025-02-10,Hypertension,Max,Yes,Dr. Sharma
+267,2025-03-04,Diabetes,Fortis,Yes,Dr. Sharma
+460,2025-12-07,Heart Disease,AIIMS,No,Dr. Sharma
+490,2024-12-31,Heart Disease,AIIMS,Yes,Dr. Sharma
+252,2025-07-14,Heart Disease,Fortis,No,Dr. Sharma
+429,2025-12-05,Heart Disease,Apollo,No,Dr. Sharma
+452,2025-03-29,Diabetes,AIIMS,Yes,Dr. Sharma
+103,2025-10-02,Diabetes,Apollo,Yes,Dr. Sharma
+299,2025-11-13,Hypertension,Fortis,No,Dr. Sharma
+185,2025-06-09,Hypertension,AIIMS,No,Dr. Sharma
+418,2025-04-02,Hypertension,Max,Yes,Dr. Sharma
+260,2025-03-19,Normal,AIIMS,Yes,Dr. Sharma
+320,2025-10-15,Normal,Apollo,Yes,Dr. Sharma
+68,2025-06-15,Hypertension,Fortis,No,Dr. Sharma
+220,2025-03-23,Hypertension,AIIMS,No,Dr. Sharma
+395,2025-01-25,Heart Disease,Max,No,Dr. Sharma
+96,2025-11-18,Normal,AIIMS,No,Dr. Sharma
+315,2025-07-05,Normal,Max,No,Dr. Sharma
+255,2025-01-03,Hypertension,AIIMS,Yes,Dr. Sharma
+47,2025-05-13,Normal,Max,Yes,Dr. Sharma
+340,2025-09-17,Heart Disease,Max,Yes,Dr. Sharma
+430,2025-05-15,Diabetes,Fortis,Yes,Dr. Sharma
+431,2025-04-09,Normal,Fortis,Yes,Dr. Sharma
+49,2025-02-19,Normal,Max,Yes,Dr. Sharma
+477,2025-03-13,Hypertension,Fortis,Yes,Dr. Sharma
+247,2025-08-12,Normal,AIIMS,No,Dr. Sharma
+298,2025-06-12,Heart Disease,Apollo,No,Dr. Sharma
+419,2025-11-21,Normal,Fortis,No,Dr. Sharma
+82,2025-03-28,Normal,Apollo,No,Dr. Sharma
+178,2025-06-08,Hypertension,AIIMS,Yes,Dr. Sharma
+498,2025-03-11,Normal,AIIMS,No,Dr. Sharma
+212,2025-08-07,Hypertension,Fortis,Yes,Dr. Sharma
+78,2025-12-15,Normal,Max,Yes,Dr. Sharma
+245,2025-03-31,Diabetes,AIIMS,Yes,Dr. Sharma
+389,2025-08-01,Heart Disease,Max,Yes,Dr. Sharma
+462,2025-12-09,Heart Disease,Fortis,No,Dr. Sharma
+133,2025-11-21,Heart Disease,AIIMS,No,Dr. Sharma
+370,2025-07-11,Hypertension,AIIMS,Yes,Dr. Sharma
+262,2025-04-08,Heart Disease,Apollo,Yes,Dr. Sharma
+249,2025-07-06,Hypertension,Fortis,No,Dr. Sharma
+20,2025-05-22,Diabetes,Max,No,Dr. Sharma
+313,2025-05-03,Hypertension,Max,No,Dr. Sharma
+446,2025-09-10,Normal,AIIMS,No,Dr. Sharma
+203,2025-06-15,Diabetes,Max,No,Dr. Sharma
+421,2025-10-14,Normal,Fortis,No,Dr. Sharma
+213,2025-06-13,Normal,Apollo,Yes,Dr. Sharma
+186,2025-01-14,Heart Disease,Max,No,Dr. Sharma
+49,2025-09-05,Heart Disease,AIIMS,Yes,Dr. Sharma
+225,2025-02-02,Hypertension,Max,No,Dr. Sharma
+306,2025-05-22,Heart Disease,AIIMS,Yes,Dr. Sharma
+35,2025-01-09,Normal,Apollo,No,Dr. Sharma
+123,2025-10-12,Normal,Fortis,No,Dr. Sharma
+90,2025-07-30,Heart Disease,Apollo,Yes,Dr. Sharma
+279,2025-02-11,Heart Disease,AIIMS,No,Dr. Sharma
+28,2025-06-22,Normal,Apollo,No,Dr. Sharma
+192,2025-03-20,Heart Disease,AIIMS,No,Dr. Sharma
+440,2025-08-31,Diabetes,Fortis,No,Dr. Sharma
+304,2025-11-28,Diabetes,Fortis,Yes,Dr. Sharma
+293,2025-05-14,Heart Disease,Fortis,No,Dr. Sharma
+417,2025-07-02,Hypertension,Max,No,Dr. Sharma
+154,2025-12-24,Diabetes,AIIMS,Yes,Dr. Sharma
+289,2025-08-20,Heart Disease,AIIMS,Yes,Dr. Sharma
+50,2025-08-04,Heart Disease,Max,Yes,Dr. Sharma
+416,2025-12-18,Heart Disease,Fortis,No,Dr. Sharma
+208,2025-02-05,Heart Disease,Fortis,No,Dr. Sharma
+399,2025-05-31,Diabetes,AIIMS,No,Dr. Sharma
+43,2025-09-24,Heart Disease,Apollo,No,Dr. Sharma
